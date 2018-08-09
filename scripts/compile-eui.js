@@ -20,7 +20,7 @@ function compileLib() {
     files.forEach(file => {
       const splitPath = file.split('/');
       const basePath = splitPath.slice(2, splitPath.length).join('/');
-      console.log(basePath)
+      console.log(basePath);
       shell.cp('-f', `${file}`, `lib/${basePath}`);
     });
 
@@ -39,4 +39,4 @@ function compileBundle() {
 }
 
 compileLib();
-compileBundle();
+// compileBundle();
