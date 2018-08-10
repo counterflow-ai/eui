@@ -1,7 +1,7 @@
 {
   "name": "cfai-eui",
   "description": "CFAI Elastic UI Component Library",
-  "version": "0.0.38rc2",
+  "version": "0.0.38rc3",
   "main": "lib",
   "module": "src",
   "types": "src/index.d.ts",

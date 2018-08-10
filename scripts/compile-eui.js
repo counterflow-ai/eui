@@ -39,4 +39,4 @@ function compileBundle() {
 }
 
 compileLib();
-// compileBundle();
+compileBundle();
