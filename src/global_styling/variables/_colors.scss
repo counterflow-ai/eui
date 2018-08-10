@@ -1,10 +1,14 @@
+// CounterFlow
+$cfaiColorPrimary: #448431;
+$cfaiColorSecondary: #364044;
+
 // Core
 
-$euiColorPrimary: #0079a5 !default;
-$euiColorSecondary: #017F75 !default;
 $euiColorAccent: #DD0A73 !default;
 $euiColorHighlight: #FFFBF1 !default;
 $euiColorGhost: #FFF !default;
+$euiColorPrimary: $cfaiColorPrimary !default;
+$euiColorSecondary: $cfaiColorSecondary !default;
 
 // Status
 $euiColorSuccess: $euiColorSecondary !default;
