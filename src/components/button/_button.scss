@@ -93,7 +93,7 @@ $buttonTypes: (
       background-color: $color;
       border-color: $color;
 
-      $fillTextColor: makeHighContrastColor($color, chooseLightOrDarkText($color, #FFF, #000));
+      $fillTextColor: $euiColorGhost;
 
       color: $fillTextColor;
 
