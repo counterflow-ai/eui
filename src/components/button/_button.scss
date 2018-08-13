@@ -93,7 +93,7 @@ $buttonTypes: (
       background-color: $color;
       border-color: $color;
 
-      $fillTextColor: chooseLightOrDarkText($color, #FFF, #000);
+      $fillTextColor: makeHighContrastColor($color, chooseLightOrDarkText($color, #FFF, #000));
 
       color: $fillTextColor;
 
