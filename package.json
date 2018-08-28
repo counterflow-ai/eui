@@ -1,6 +1,6 @@
 {
-  "name": "@elastic/eui",
-  "description": "Elastic UI Component Library",
+  "name": "cfai-eui",
+  "description": "CounterFlow AI Elastic UI Component Library",
   "version": "3.7.0-omega-0",
   "main": "lib",
   "module": "src",
