@@ -1,7 +1,7 @@
 {
   "name": "cfai-eui",
   "description": "CounterFlow AI Elastic UI Component Library",
-  "version": "3.7.0-omega-0",
+  "version": "3.7.0-omega-1",
   "main": "lib",
   "module": "src",
   "types": "src/index.d.ts",
