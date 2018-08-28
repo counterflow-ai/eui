@@ -66,6 +66,10 @@ export {
 } from './context_menu';
 
 export {
+  EuiCopy,
+} from './copy';
+
+export {
   EuiDatePicker,
   EuiDatePickerRange,
 } from './date_picker';
@@ -131,6 +135,8 @@ export {
   EuiRadioGroup,
   EuiRange,
   EuiSelect,
+  EuiSuperSelect,
+  EuiSuperSelectControl,
   EuiSwitch,
   EuiTextArea,
   EuiValidatableControl,
