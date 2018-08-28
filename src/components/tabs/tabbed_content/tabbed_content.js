@@ -8,7 +8,7 @@ import { EuiTab } from '../tab';
 
 const makeId = htmlIdGenerator();
 
-export class EuiTabbedContent extends Component {
+export default class EuiTabbedContent extends Component {
   static propTypes = {
     className: PropTypes.string,
 
